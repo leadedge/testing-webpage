@@ -1,8 +1,3 @@
-!DOCTYPE html>
-<html>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
- 
 <body style="background-color:rgb(192, 192, 192);
 font-family: Arial, Helvetica, sans-serif;
 max-width: 600px; 
